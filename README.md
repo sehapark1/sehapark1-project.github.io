@@ -40,13 +40,9 @@ Graph (Figure 2): Shows a clear increase in older players in Top 10 rankings in 
 {% include_relative folder/map_visualization(1).html %}
 
 
-
-
-
 ## Conclusion
 
-
-** Answers to the research questions**
+**Answers to the research questions**
 - Players reaching the top 10 ATP rankings are indeed older in recent years
 - This trend suggests a shift in athletic peak age for tennis players, extending into their 30s
 - Advance in injury prevention and sports science
@@ -58,13 +54,12 @@ Dataset focuses on ATP and excludes women's tennis (WTA).
 Age inaccuracies in early data could skew trends.
 Lack of granular data on factors like injuries or workload.
 Lack of data from before 1980 which could help benefit showing more of the older era
-Further Study
+
+**Further Study**
 Explore WTA trends to compare them with men’s trends and check whether the trend we find is specific to the ATP or applies to tennis as a whole.
 Investigate the role of playing surfaces in career longevity
 Study correlation between career length and injury rates.
-Group Assessment
-50% Cameron Yang 50% Seha Park
 
-References:
+**References**:
 Moopoo, Mimoopoo. “ATP Tennis Rankings (1990 to 2019).” Kaggle, 7 Dec. 2024, 
 https://www.kaggle.com/datasets/mimoopoo/atp-tennis-rankings-1990-to-2019.
