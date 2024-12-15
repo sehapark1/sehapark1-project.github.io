@@ -1,4 +1,29 @@
 title: Seha Park
 description: Github website
 show_downloads: false
-theme: jekyll-theme-architect
+theme: minima
+
+
+title: "OldVsYoungATP"
+description: "Analyze longevity of players in more recent years compared to past years"
+=
+url: "https://project.github.io" # Your site URL
+theme: minima # The theme you want to use
+
+# Author information
+author:
+  name: "Seha Park"
+  email: "parks2@whitman.edu"
+
+# Social links
+social_links:
+  github: "https://github.com/sehapark1"
+  
+
+# Build settings
+markdown: kramdown
+permalink: pretty # Pretty URLs without .html
+plugins:
+  - jekyll-feed # Example plugin for RSS feeds
+
+
